@@ -1,2 +1,2 @@
 "use strict";
-console.log("hello fuck");
+console.log("hello fu");
